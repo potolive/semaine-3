@@ -1,0 +1,18 @@
+body {
+	background-color:#CFD1D1;
+}
+li {
+	text-align: justify;
+	list-style-type:circle;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+h1,h2 {
+	color: #4902FA;
+}
+h2 {
+	text-decoration: underline;
+}
+strong {
+	font-weight: bold;
+}
