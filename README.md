@@ -13,5 +13,4 @@ sur le readme de la semaine 2!
 Nous avançons sur la mise en page du CV, avec cette semaine l'intégration  
 de CSS afin de donner un peu de forme et de clareté à celui-ci.  
 Les fichiers html et css vont suivre à la suite de ce readme.
-J'ai pu découvrir également durant cette semaine 3, de nombreux liens  
-interessants.
+J'ai pu découvrir également durant cette semaine 3, de nombreux liens interessants.
